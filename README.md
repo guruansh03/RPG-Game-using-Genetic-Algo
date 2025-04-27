@@ -55,7 +55,7 @@ Run the Game:
 
 python main.py
 ```
-###Gameplay:
+### Gameplay:
 
 **Training Phase:** The AI trains for 2 generations (shown with a progress bar).
 
@@ -65,12 +65,12 @@ python main.py
 
 **AI Adaptation:** The AI adjusts its strategy based on your clicks, countering frequent attacks or healing with appropriate actions.
 
-###Controls
+### Controls
 Click action buttons to select moves.
 
 Use theme/difficulty dropdowns in the top-right corner.
 
-###Project Structure
+### Project Structure
 ```bash
 
 adaptive-ai-rpg-combat/
